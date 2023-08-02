@@ -1,0 +1,97 @@
+*{
+    /* background-color:  #ea4f4c; */
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: "Source Sans 3", sans-serif;
+    
+}
+#ic{
+    text-align: center;
+}
+.baslik{
+    text-align: center;
+    font-size:2rem;
+    background-color:rgb(255, 255, 255);
+}
+
+.nav a:hover{
+  color: #c5cae9;
+  transform:rotate(6deg);
+}
+.nav a{
+color: white;
+margin-left: 20px;
+display: block;
+transition: all 0.2s ease-out;
+text-decoration: none;
+}
+.nav{
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  display: flex;
+  align-items: center;
+  padding: 0.5cm;
+  font-size: 1.4rem;
+
+}
+.header{
+  background-color: #283593;
+  color: azure;
+  display:flex;
+  padding-right: 45px;
+  padding-left: 10px;
+  align-items: center;
+    padding-bottom: 0.3cm;
+    padding-top: 0.3cm;
+  }
+  
+.info{
+  
+    text-align:left;
+    margin: auto;
+    width: 1250px;
+    padding-left:1rem;
+    background-color: white;
+    padding: 2rem;
+    
+  
+}
+
+.container-home{
+  background-color: rgb(255, 255, 255);
+
+
+}
+
+#main{
+ padding-top: 0.8cm;
+ font-size: 1.3rem;
+
+}
+#baslik{
+  font-size: 3.5rem;
+  text-align: center;
+  font-weight: bold;
+}
+*{
+font-family: "Source Sans 3", sans-serif;
+  }
+  .foto{
+    margin-left: 7.5rem;
+    height: 450px;
+  }
+.cicdimg{
+  display: block;
+  height: auto;
+  width: auto;
+margin-left: 2cm;
+ 
+}
+
+.header{
+ align-items: center;
+ padding-bottom: 0.3cm;
+ padding-top: 0.3cm;
+}

@@ -1,0 +1,117 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+#ic{
+    text-align: center;
+}
+.baslik{
+    text-align: center;
+    font-size:2rem;
+    background-color:rgb(255, 255, 255);
+}
+
+*{
+ 
+    
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: "Source Sans 3", sans-serif;
+}
+#ic{
+    text-align: center;
+}
+.baslik{
+    text-align: center;
+    font-size:2rem;
+    background-color:rgb(255, 255, 255);
+}
+#baslik{
+  font-size: 3.5rem;
+  text-align: center;
+  font-weight: bold;
+}
+.header{
+    background-color: #283593;
+    color: azure;
+    display:flex;
+    padding-right: 45px;
+    padding-left: 10px;
+    align-items: center;
+    padding-bottom: 0.3cm;
+    padding-top: 0.3cm;
+    }
+    .nav a:hover{
+        color: #c5cae9;
+        transform:rotate(6deg);
+    }
+    .nav a{
+    color: white;
+    margin-left: 20px;
+    display: block;
+    transition: all 0.2s ease-out;
+    text-decoration: none;
+    }
+    .nav{
+        list-style: none;
+        margin: 0;
+        padding: 0;
+        display: flex;
+        align-items: center;
+        padding: 0.5cm;
+        font-size: 1.4rem;
+      
+    }
+    body{
+        margin: 0;
+        font-family: "Source Sans 3", sans-serif;
+        padding-bottom: 7cm;
+        
+    }
+  
+.list{
+    font-weight:bolder;
+    text-align: left;
+    padding-left: 3rem;
+  
+}
+#full{
+    background-color:rgb(255, 255, 255);
+}
+.bas{
+    text-align: center;
+    font-size: 3rem;
+    padding-bottom: 40px;
+    
+}
+
+.info{
+  
+    text-align:left;
+    margin: auto;
+    width: 1250px;
+    padding-left:1rem;
+    background-color: rgb(255, 255, 255);
+    padding: 2rem;
+    
+  
+}
+
+.container-home{
+  background-color: rgb(255, 255, 255);
+  background-size: cover;   
+}
+
+#main{
+ padding-top: 0.8cm;
+ font-size: 1.3rem;
+ font-weight: bold;
+}
+#baslik{
+  font-size: 3.5rem;
+  text-align: center;
+  font-weight: bold;
+}
+
